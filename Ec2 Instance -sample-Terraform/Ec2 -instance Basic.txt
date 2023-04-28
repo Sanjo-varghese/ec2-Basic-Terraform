@@ -1,0 +1,33 @@
+Terraform Installation
+
+1.Download terraform for windows 366
+   (or) using chocoltely - choco install terraform
+copy path : c:\ create folder -> terraform-> paste terraform.exe
+2.open system properties-> Advanced system tab Click on Environment variables
+3. click on path below ->edit-> paste the path c:\terraform->ok
+
+git bash
+terraform --version 
+$ terraform --version
+Terraform v1.4.6
+on windows_388
+
+How to create a sample Ec2 instance using create a terraform - Region (Ohio)us-east-2
+
+1)/f/sanjo-terraform/sanjo-projects
+
+Main commands:
+  init          Prepare your working directory for other commands
+  validate      Check whether the configuration is valid
+  plan          Show changes required by the current configuration
+  apply         Create or update infrastructure
+  destroy       Destroy previously-created infrastructure
+
+
+
+catch me on 
+facebook.com/sanjovarghese.net
+instagram.com/sanjo._.varghese
+
+
+
